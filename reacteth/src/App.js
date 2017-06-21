@@ -4,6 +4,7 @@ import './App.css';
 // import TheBard from './TheBard'
 import TextGenerator from './TextGenerator'
 
+//This is a comment. Yay!
 class App extends Component {
   render() {
     return (
